@@ -1,2 +1,4 @@
 # firstrepo
-first repository to explor github
+first repository to explore github
+
+Created by Jessica Blanton on 10/25/15
